@@ -90,22 +90,22 @@
           <div class="col-lg-7 content-col" data-aos="fade-up">
             <div class="content">
               <div class="agency-name">
-                <h5>OUR AGENCY</h5>
+                <h5>SEKILAS TENTANG</h5>
               </div>
 
               <div class="main-heading">
-                <h1>CREATIVE <br>DESIGN</h1>
+                <h1>TENTANG <br>SAYA</h1>
               </div>
 
               <div class="divider"></div>
 
               <div class="description">
-                <p>Discover innovative strategies for impactful visual communication. We transform ideas into compelling realities, ensuring your brand stands out in a crowded marketplace. Our dedicated team leverages cutting-edge techniques to deliver exceptional results that resonate with your audience.</p>
+                <p>Halo! Saya adalah seorang mahasiswa semester 6 di Universitas Nahdlatul Ulama Indonesia Jakarta, mengambil jurusan Teknik Informatika. Saya memiliki ketertarikan mendalam pada pengembangan web dan selalu mencari peluang untuk belajar serta berinovasi.</p>
               </div>
 
               <div class="cta-button">
                 <a href="#services" class="btn">
-                  <span>EXPLORE SERVICES</span>
+                  <span>KEAHLIAN SAYA</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
               </div>
@@ -123,7 +123,7 @@
                   <h2>5K</h2>
                 </div>
                 <div class="stats-label">
-                  <p>Successful Campaigns</p>
+                  <p>Lihat Apa yang Telah Saya Bangun</p>
                 </div>
                 <div class="stats-arrow">
                   <a href="#portfolio"><i class="bi bi-arrow-up-right"></i></a>
@@ -140,8 +140,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>About</h2>
-        <div><span>Learn More</span> <span class="description-title">About Us</span></div>
+        <h2>Tentang Kami</h2>
+        <div><span>Kenali kami</span> <span class="description-title">Lebih Jauh</span></div>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -149,38 +149,37 @@
         <div class="row gx-5 align-items-center">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
             <div class="about-image position-relative">
-              <img src="assets/img/about/about-portrait-1.webp" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
+              <img src="assets/img/about/kuliah1.webp" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
               <div class="experience-badge">
-                <span class="years">20+</span>
-                <span class="text">Years of Expertise</span>
+                <span class="years">6</span>
+                <span class="text">Semester Kuliah</span>
               </div>
             </div>
           </div>
 
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-left" data-aos-delay="300">
             <div class="about-content">
-              <h2>Elevating Business Performance Through Innovation</h2>
-              <p class="lead">We focus on crafting bespoke strategies that navigate complexity and deliver tangible results for our clients.</p>
-              <p>Through a blend of sophisticated analytics and creative problem-solving, we empower organizations to thrive in rapidly evolving markets.</p>
+              <h2>Mendalami Ilmu dan Mengembangkan Solusi</h2>
+              <p class="lead">Fokus saya adalah menguasai berbagai konsep informatika dan menerapkannya dalam pengembangan proyek yang relevan dan inovatif.</p> <p>Dengan kombinasi pemahaman teori dan praktik coding, saya berupaya menciptakan solusi teknologi yang efisien dan berdampak positif, siap berkontribusi pada kemajuan di era digital.</p>
 
               <div class="row g-4 mt-3">
                 <div class="col-md-6" data-aos="zoom-in" data-aos-delay="400">
                   <div class="feature-item">
                     <i class="bi bi-check-circle-fill"></i>
-                    <h5>Dedicated Team Support</h5>
-                    <p>Our highly skilled professionals are committed to providing personalized service and impactful solutions on every engagement.</p>
+                    <h5>Fokus & Komitmen Belajar</h5>
+                    <p>Saya senantiasa berkomitmen untuk mendalami setiap materi perkuliahan dan proyek dengan penuh dedikasi, memastikan setiap hasil kerja memiliki kualitas dan pemahaman yang mendalam.</p>
                   </div>
                 </div>
                 <div class="col-md-6" data-aos="zoom-in" data-aos-delay="450">
                   <div class="feature-item">
                     <i class="bi bi-lightbulb-fill"></i>
-                    <h5>Forward-Thinking Approach</h5>
-                    <p>We embrace innovative methodologies to develop unique strategies that drive lasting success.</p>
+                    <h5>Pendekatan Berpikir Maju</h5>
+                    <p>Saya senantiasa terbuka terhadap teknologi dan metodologi terbaru, berupaya mengintegrasikan inovasi dalam setiap proyek untuk menciptakan solusi yang relevan dan siap menghadapi tantangan masa depan.</p>
                   </div>
                 </div>
               </div>
 
-              <a href="#" class="btn btn-primary mt-4">Explore Our Services</a>
+              <a href="#" class="btn btn-primary mt-4">Lihat Proyek Saya</a>
             </div>
           </div>
         </div>
@@ -189,8 +188,8 @@
           <div class="row">
             <div class="col-lg-4" data-aos="fade-right" data-aos-delay="200">
               <div class="testimonial-intro">
-                <h3>Our Clients Speak Highly</h3>
-                <p>Hear directly from those who have experienced the impact of our partnership and achieved their strategic goals.</p>
+                <h3>Apa Kata Mereka?</h3>
+                <p>Dengarkan langsung masukan dari dosen, mentor, dan teman sejawat yang telah melihat perjalanan dan kontribusi saya dalam berbagai proyek dan aktivitas akademis.</p>
                 <div class="swiper-nav-buttons mt-4">
                   <button class="slider-prev"><i class="bi bi-arrow-left"></i></button>
                   <button class="slider-next"><i class="bi bi-arrow-right"></i></button>
@@ -230,7 +229,7 @@
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                       </div>
-                      <p>"Their strategic vision and unwavering commitment to results provided exceptional value. Our operational efficiency has signficantly improved."</p>
+                      <p>"Visi strategisnya dalam memecahkan masalah dan komitmennya yang teguh terhadap hasil proyek memberikan nilai yang luar biasa. Kemampuan analisanya sangat membantu dalam efisiensi pengerjaan."</p>
                       <div class="client-info d-flex align-items-center mt-4">
                         <img src="assets/img/person/person-f-1.webp" class="client-img" alt="Client" loading="lazy">
                         <div>
@@ -250,7 +249,7 @@
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-half"></i>
                       </div>
-                      <p>"Collaborating with their team was a revelation. Their innovative strategies guided us toward achieving our objectives with precision and speed."</p>
+                      <p>"Berkolaborasi dengannya adalah pengalaman yang mencerahkan. Ide-ide inovatifnya sangat membantu kami mencapai tujuan proyek dengan presisi dan efisiensi waktu yang luar biasa."</p>
                       <div class="client-info d-flex align-items-center mt-4">
                         <img src="assets/img/person/person-m-1.webp" class="client-img" alt="Client" loading="lazy">
                         <div>
@@ -270,7 +269,7 @@
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-fill"></i>
                       </div>
-                      <p>"The depth of knowledge and unwavering dedication they bring to every project is exceptional. They've become an essential ally in driving our expansion."</p>
+                      <p>"Kedalaman ilmu dan dedikasi tak tergoyahkan yang ia bawa ke setiap proyek sangat luar biasa. Ia telah menjadi rekan penting dalam mendorong keberhasilan pengerjaan kami."</p>
                       <div class="client-info d-flex align-items-center mt-4">
                         <img src="assets/img/person/person-f-2.webp" class="client-img" alt="Client" loading="lazy">
                         <div>
@@ -290,7 +289,7 @@
                         <i class="bi bi-star-fill"></i>
                         <i class="bi bi-star-half"></i>
                       </div>
-                      <p>"Their dedication to delivering superior solutions and their meticulous attention to detail have profoundly impacted our corporate growth trajectory."</p>
+                      <p>"Dedikasinya dalam memberikan solusi yang unggul serta perhatiannya yang teliti terhadap detail telah berdampak besar pada keberhasilan proyek kami."</p>
                       <div class="client-info d-flex align-items-center mt-4">
                         <img src="assets/img/person/person-f-3.webp" class="client-img" alt="Client" loading="lazy">
                         <div>
@@ -316,8 +315,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <div><span>Check Our</span> <span class="description-title">Services</span></div>
+        <h2>KEAHLIAN</h2>
+        <div><span>TEMUKAN</span> <span class="description-title">KEAHLIAN SAYA</span></div>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -327,18 +326,18 @@
             <div class="col-lg-8 col-md-12">
               <div class="service-intro">
                 <h2 class="service-heading">
-                  <div>Innovative business</div>
-                  <div><span>performance solutions</span></div>
+                  <div>Pengembangan Aplikasi</div>
+                  <div><span>Web Modern</span></div>
                 </h2>
               </div>
             </div>
             <div class="col-lg-4 col-md-12">
               <div class="service-summary">
                 <p>
-                  We integrate forward-thinking strategies, creative approaches, and state-of-the-art technologies to deliver exceptional customer experiences that drive growth and engage target markets.
+                  Saya mengintegrasikan pendekatan strategis yang berpandangan ke depan, ide-ide kreatif, dan teknologi terkini untuk menghasilkan solusi inovatif yang memberikan dampak positif dan relevan dengan kebutuhan masa kini.
                 </p>
                 <a href="services.html" class="service-btn">
-                  View All Services
+                   Lihat Semua Proyek
                   <i class="bi bi-arrow-right"></i>
                 </a>
               </div>
@@ -357,11 +356,11 @@
               </a>
               <h3>
                 <a href="service-details.html">
-                  Creative <span>branding</span>
+                 Pengembangan Aplikasi <span>Web Interaktif</span>
                 </a>
               </h3>
               <p>
-                Nulla facilisi. Maecenas eget magna neque. Suspendisse potenti. Curabitur eleifend nisi non magna vulputate, vel condimentum libero tempus. Proin consectetur feugiat diam.
+                Fokus saya dalam pengembangan aplikasi web interaktif adalah merancang dan membangun platform digital yang dinamis, responsif, dan memberikan pengalaman pengguna yang intuitif. Saya mengaplikasikan teknologi terkini untuk memastikan fungsionalitas optimal dan desain yang menarik.
               </p>
             </div>
           </div>
@@ -375,11 +374,11 @@
               </a>
               <h3>
                 <a href="service-details.html">
-                  Design <span>systems</span>
+                  Perancangan <span>Sistem Aplikasi</span>
                 </a>
               </h3>
               <p>
-                Praesent euismod varius tellus, vel bibendum nunc interdum at. Donec vehicula diam vel metus venenatis convallis. Aliquam erat volutpat. Etiam viverra magna sit amet.
+                Saya memiliki kemampuan dalam merancang arsitektur sistem aplikasi yang efisien, skalabel, dan sesuai dengan kebutuhan pengguna. Proses ini meliputi analisis kebutuhan, perancangan basis data, hingga penentuan alur kerja sistem untuk menjamin fungsionalitas optimal.
               </p>
             </div>
           </div>
@@ -393,11 +392,11 @@
               </a>
               <h3>
                 <a href="service-details.html">
-                  Marketing <span>strategies</span>
+                  Analisis <span>Sistem Informasi</span>
                 </a>
               </h3>
               <p>
-                Vivamus tempor velit id magna dictum, sed fermentum nisi faucibus. Integer nec pretium sapien. Fusce tincidunt ligula et purus consequat, ac pellentesque nulla eleifend.
+               Saya memiliki kemampuan dalam melakukan analisis mendalam terhadap kebutuhan sistem informasi, mengidentifikasi celah, dan merumuskan solusi yang tepat. Ini mencakup pemetaan proses bisnis, perancangan alur data, dan rekomendasi implementasi untuk optimasi kinerja.
               </p>
             </div>
           </div>
@@ -411,11 +410,11 @@
               </a>
               <h3>
                 <a href="service-details.html">
-                  Digital <span>platforms</span>
+                  Pengembangan <span>Sistem Basis Dataplatforms</span>
                 </a>
               </h3>
               <p>
-                Cras fermentum odio eu feugiat malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et accumsan cursus. Morbi placerat nulla vel nunc viverra accumsan.
+                Saya menguasai perancangan, implementasi, dan pengelolaan sistem basis data yang efisien dan aman. Kemampuan ini mencakup penggunaan SQL/NoSQL, memastikan integritas data, serta mengoptimalkan kinerja basis data untuk mendukung aplikasi yang kompleks.
               </p>
             </div>
           </div>
@@ -429,11 +428,11 @@
               </a>
               <h3>
                 <a href="service-details.html">
-                  Growth <span>acceleration</span>
+                  Riset <span>Pengembangan TI</span>
                 </a>
               </h3>
               <p>
-                Aenean vel augue vel nisi bibendum posuere. Phasellus in lacus quis urna sodales dignissim. Duis aliquam libero eget risus facilisis. Quisque eget libero vel nisl fringilla.
+                Saya aktif dalam melakukan riset terhadap teknologi dan tren terbaru di bidang informatika, serta mengaplikasikan temuan tersebut dalam pengembangan prototipe atau peningkatan fitur sistem. Ini merupakan bagian dari komitmen saya untuk terus berinovasi dan relevan dengan perkembangan industri.
               </p>
             </div>
           </div>
@@ -447,11 +446,11 @@
               </a>
               <h3>
                 <a href="service-details.html">
-                  Media <span>solutions</span>
+                  Implementasi <span>Algoritma & Struktur Data</span>
                 </a>
               </h3>
               <p>
-                Etiam efficitur lacus in diam finibus, nec ultrices est sagittis. Maecenas elementum magna sed risus faucibus, nec commodo purus facilisis. Vestibulum accumsan magna.
+                Saya memiliki kemampuan untuk mengimplementasikan berbagai algoritma dan struktur data ke dalam kode yang efisien dan optimal. Fokus saya adalah pada pemecahan masalah komputasi yang kompleks, memastikan kinerja aplikasi yang cepat dan stabil.
               </p>
             </div>
           </div>
@@ -466,8 +465,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Steps</h2>
-        <div><span>How we</span> <span class="description-title">Work</span></div>
+        <h2>Professional</h2>
+        <div><span>BAGAIMANA SAYA</span> <span class="description-title">BEKERJA</span></div>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -480,9 +479,9 @@
                 <i class="bi bi-lightbulb"></i>
               </div>
               <div class="step-info">
-                <span class="step-number">Step 01</span>
-                <h3>Initial Consultation</h3>
-                <p>Conducting thorough discovery sessions to understand your business requirements and objectives. Our expert team analyzes your needs to create a customized approach.</p>
+                <span class="step-number">Langkah 01</span>
+                <h3>Analisis Kebutuhan & Perencanaan</h3>
+                <p>Melakukan identifikasi mendalam terhadap masalah atau tujuan yang ingin dicapai. Tahap ini mencakup pengumpulan data, analisis persyaratan, dan penyusunan rencana kerja yang sistematis untuk langkah selanjutnya.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -493,9 +492,9 @@
                 <i class="bi bi-gear"></i>
               </div>
               <div class="step-info">
-                <span class="step-number">Step 02</span>
-                <h3>Planning &amp; Strategy</h3>
-                <p>Developing comprehensive strategies and detailed project plans based on the initial consultation. We create actionable roadmaps with clear milestones and deliverables.</p>
+                <span class="step-number">Langkah 02</span>
+                <h3>Pengembangan &amp; Implementasi</h3>
+                <p>Menerjemahkan rencana yang telah disusun menjadi kode program, desain, atau struktur basis data. Tahap ini fokus pada pembangunan fungsionalitas inti, pengujian awal, dan memastikan semua elemen terintegrasi dengan baik.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -506,9 +505,9 @@
                 <i class="bi bi-bar-chart"></i>
               </div>
               <div class="step-info">
-                <span class="step-number">Step 03</span>
-                <h3>Development Phase</h3>
-                <p>Executing the planned strategies with precision and agility. Our team implements solutions while maintaining constant communication and progress updates.</p>
+                <span class="step-number">Langkah 03</span>
+                <h3>Pengujian & Optimasi</h3>
+                <p>Melakukan serangkaian pengujian menyeluruh untuk mengidentifikasi dan memperbaiki bug atau kesalahan. Tahap ini juga mencakup optimasi kinerja, memastikan solusi berfungsi optimal, efisien, dan siap digunakan.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -519,9 +518,9 @@
                 <i class="bi bi-check2-circle"></i>
               </div>
               <div class="step-info">
-                <span class="step-number">Step 04</span>
-                <h3>Launch &amp; Support</h3>
-                <p>Ensuring smooth deployment and providing ongoing support for implemented solutions. We monitor performance and make necessary adjustments for optimal results.</p>
+                <span class="step-number">Langkah 04</span>
+                <h3>Evaluasi &amp; Dokumentasi</h3>
+                <p>Melakukan evaluasi akhir terhadap hasil proyek, mengumpulkan umpan balik, dan menyusun dokumentasi teknis yang lengkap. Tahap ini penting untuk pembelajaran berkelanjutan dan referensi di masa mendatang.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -540,40 +539,40 @@
         <div class="advertise-1 d-flex flex-column flex-lg-row gap-4 align-items-center position-relative">
 
           <div class="content-left flex-grow-1" data-aos="fade-right" data-aos-delay="200">
-            <span class="badge text-uppercase mb-2">Don't Miss!</span>
-            <h2>Revolutionize Your Digital Experience Today</h2>
-            <p class="my-4">Strategia accelerates your business growth through innovative solutions and cutting-edge technology. Join thousands of satisfied customers who have transformed their operations.</p>
+            <span class="badge text-uppercase mb-2">Jangan Lewatkan!</span>
+            <h2>Tingkatkan Kemampuan Digital Anda Sekarang!</h2>
+            <p class="my-4">Jelajahi portofolio saya untuk melihat berbagai proyek dan solusi teknologi yang telah saya kembangkan. Mari berinovasi bersama di era digital ini.</p>
 
             <div class="features d-flex flex-wrap gap-3 mb-4">
               <div class="feature-item">
                 <i class="bi bi-check-circle-fill"></i>
-                <span>Premium Support</span>
+                <span>Pembelajaran Berkelanjutan</span>
               </div>
               <div class="feature-item">
                 <i class="bi bi-check-circle-fill"></i>
-                <span>Cloud Integration</span>
+                <span>Kolaborasi Tim Efektif</span>
               </div>
               <div class="feature-item">
                 <i class="bi bi-check-circle-fill"></i>
-                <span>Real-time Analytics</span>
+                <span>Pemecahan Masalah Kreatif</span>
               </div>
             </div>
 
             <div class="cta-buttons d-flex flex-wrap gap-3">
-              <a href="#" class="btn btn-primary">Start Free Trial</a>
-              <a href="#" class="btn btn-outline">Learn More</a>
+                <a href="#" class="btn btn-primary">Lihat Proyek Terbaru</a>
+                <a href="#contact-section" class="btn btn-outline">Hubungi Saya</a>
             </div>
           </div>
 
           <div class="content-right position-relative" data-aos="fade-left" data-aos-delay="300">
-            <img src="assets/img/misc/misc-1.webp" alt="Digital Platform" class="img-fluid rounded-4">
+            <img src="assets/img/misc/wanzz.jpg" alt="Digital Platform" class="img-fluid rounded-4">
             <div class="floating-card">
               <div class="card-icon">
                 <i class="bi bi-graph-up-arrow"></i>
               </div>
               <div class="card-content">
-                <span class="stats-number">245%</span>
-                <span class="stats-text">Growth Rate</span>
+                <span class="stats-number">6</span>
+                <span class="stats-text">Semester</span>
               </div>
             </div>
           </div>
@@ -594,8 +593,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Testimonials</h2>
-        <div><span>Check Our</span> <span class="description-title">Testimonials</span></div>
+        <h2>ULASAN</h2>
+        <div><span>APA KATA</span> <span class="description-title">MEREKA</span></div>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -622,12 +621,12 @@
               <div class="testimonial-item">
                 <div class="row">
                   <div class="col-lg-8">
-                    <h2>Sed ut perspiciatis unde omnis</h2>
+                    <h2>Mengenal Lebih Dekat Perjalanan Saya</h2>
                     <p>
-                      Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                      Sebagai seorang mahasiswa Teknik Informatika di Universitas Nahdlatul Ulama Indonesia Jakarta, saya memiliki fokus mendalam pada pengembangan solusi teknologi dan inovasi. Setiap semester adalah kesempatan baru untuk mendalami ilmu dan mengaplikasikannya dalam proyek-proyek nyata.
                     </p>
                     <p>
-                      Beatae magnam dolore quia ipsum. Voluptatem totam et qui dolore dignissimos. Amet quia sapiente laudantium nihil illo et assumenda sit cupiditate. Nam perspiciatis perferendis minus consequatur. Enim ut eos quo.
+                      Dengan latar belakang yang kuat dalam analisis sistem, pengembangan web, dan basis data, saya selalu bersemangat untuk menghadapi tantangan baru. Saya percaya bahwa kombinasi antara pengetahuan teoritis dan pengalaman praktis adalah kunci untuk menciptakan solusi yang berdampak di era digital ini.
                     </p>
                     <div class="profile d-flex align-items-center">
                       <img src="assets/img/person/person-m-7.webp" class="profile-img" alt="">
@@ -650,12 +649,12 @@
               <div class="testimonial-item">
                 <div class="row">
                   <div class="col-lg-8">
-                    <h2>Nemo enim ipsam voluptatem</h2>
+                    <h2>Fokus Studi dan Minat Utama</h2>
                     <p>
-                      Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                      Selama perkuliahan di Teknik Informatika UNU Indonesia Jakarta, saya mendalami berbagai bidang, dengan **minat khusus pada pengembangan aplikasi web interaktif dan analisis data**. Saya percaya bahwa penguasaan di kedua area ini sangat krusial untuk menciptakan solusi digital yang relevan.
                     </p>
                     <p>
-                      Dolorem excepturi esse qui amet maxime quibusdam aut repellendus voluptatum. Corrupti enim a repellat cumque est laborum fuga consequuntur. Dolorem nostrum deleniti quas voluptatem iure dolorum rerum. Repudiandae doloribus ut repellat harum vero aut. Modi aut velit aperiam aspernatur odit ut vitae.
+                      Saya terus belajar dan beradaptasi dengan teknologi terkini, seperti **framework frontend modern dan teknik visualisasi data**. Melalui proyek-proyek praktikum dan pribadi, saya berupaya menerapkan teori yang dipelajari untuk memecahkan masalah nyata dan memberikan kontribusi yang berarti.
                     </p>
                     <div class="profile d-flex align-items-center">
                       <img src="assets/img/person/person-f-8.webp" class="profile-img" alt="">
@@ -679,13 +678,13 @@
                 <div class="row">
                   <div class="col-lg-8">
                     <h2>
-                      Labore nostrum eos impedit
+                      Proyek Pilihan & Pengalaman Relevan
                     </h2>
                     <p>
-                      Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                      Selama perjalanan studi saya, saya telah terlibat dalam berbagai proyek yang mengasah kemampuan teknis dan pemecahan masalah. Proyek-proyek ini memberikan pengalaman praktis dalam menerapkan konsep-konsep informatika ke dalam solusi nyata, mulai dari pengembangan web hingga sistem basis data.
                     </p>
                     <p>
-                      Itaque ut explicabo vero occaecati est quam rerum sed. Numquam tempora aut aut quaerat quia illum. Nobis quia autem odit ipsam numquam. Doloribus sit sint corporis eius totam fuga. Hic nostrum suscipit corrupti nam expedita adipisci aut optio.
+                      Beberapa di antaranya termasuk **pembuatan sistem manajemen inventaris berbasis web** untuk skala kecil, **analisis dan visualisasi data demografi**, serta kontribusi pada **proyek open-source** yang berfokus pada optimasi algoritma. Setiap proyek menjadi kesempatan untuk belajar dan berinovasi.
                     </p>
                     <div class="profile d-flex align-items-center">
                       <img src="assets/img/person/person-m-9.webp" class="profile-img" alt="">
@@ -708,12 +707,12 @@
               <div class="testimonial-item">
                 <div class="row">
                   <div class="col-lg-8">
-                    <h2>Impedit dolor facilis nulla</h2>
+                    <h2>Visi dan Tujuan Masa Depan</h2>
                     <p>
-                      Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                      Saya memiliki visi untuk menjadi seorang profesional IT yang mampu menciptakan **solusi inovatif dan berkelanjutan** yang memberikan dampak positif bagi masyarakat. Saya percaya bahwa teknologi adalah alat yang ampuh untuk memecahkan masalah kompleks dan meningkatkan kualitas hidup.
                     </p>
                     <p>
-                      Omnis aspernatur accusantium qui delectus praesentium repellendus. Facilis sint odio aspernatur voluptas commodi qui qui qui pariatur. Corrupti deleniti itaque quaerat ipsum deleniti culpa tempora tempore. Et consequatur exercitationem hic aspernatur nobis est voluptatibus architecto laborum.
+                      Tujuan saya adalah terus mengembangkan keahlian teknis dan non-teknis, berkolaborasi dalam proyek-proyek menantang, serta berkontribusi dalam komunitas teknologi. Saya bersemangat untuk terus belajar dan beradaptasi dengan perkembangan pesat di dunia informatika.
                     </p>
                     <div class="profile d-flex align-items-center">
                       <img src="assets/img/person/person-f-10.webp" class="profile-img" alt="">
@@ -750,8 +749,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Portfolio</h2>
-        <div><span>Check Our</span> <span class="description-title">Portfolio</span></div>
+        <h2>PORTOFOLIO</h2>
+        <div><span>LIHAT</span> <span class="description-title">KARYA SAYA</span></div>
       </div><!-- End Section Title -->
 
       <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
@@ -760,19 +759,19 @@
 
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="200">
             <li data-filter="*" class="filter-active">
-              <i class="bi bi-grid-3x3"></i> All Projects
+              <i class="bi bi-grid-3x3"></i> Semua Proyek
             </li>
             <li data-filter=".filter-ui">
-              <i class="bi bi-phone"></i> UI/UX
+              <i class="bi bi-phone"></i> Pengembangan Web
             </li>
             <li data-filter=".filter-development">
-              <i class="bi bi-code-slash"></i> Development
+              <i class="bi bi-code-slash"></i> Pengembangan Mobile
             </li>
             <li data-filter=".filter-photography">
-              <i class="bi bi-camera"></i> Photography
+              <i class="bi bi-camera"></i> Analisis Data & Basis Data
             </li>
             <li data-filter=".filter-marketing">
-              <i class="bi bi-graph-up"></i> Marketing
+              <i class="bi bi-graph-up"></i>  Sistem Informasi
             </li>
           </ul>
 
@@ -781,13 +780,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-ui">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-1.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/kuliah9.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">UI/UX Design</div>
-                      <h3 class="entry-title">Mobile Banking App</h3>
+                      <div class="entry-meta">Pengembangan Web</div>
+                      <h3 class="entry-title">Aplikasi Manajemen Tugas</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-1.webp" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Mobile Banking App; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur.">
+                        <a href="assets/img/portfolio/kuliah9.jpg" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Mobile Banking App; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -803,13 +802,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-development">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-10.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/Dah.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Development</div>
-                      <h3 class="entry-title">E-Learning Platform</h3>
+                      <div class="entry-meta">Pengembangan Mobile</div>
+                      <h3 class="entry-title">Aplikasi Edukasi Interaktif</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-10.webp" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: E-Learning Platform; description: Nulla vitae elit libero, a pharetra augue mollis interdum.">
+                        <a href="assets/img/portfolio/Dah.png" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: E-Learning Platform; description: Nulla vitae elit libero, a pharetra augue mollis interdum.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -825,13 +824,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-photography">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-7.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/OIP.jpeg" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Photography</div>
-                      <h3 class="entry-title">Urban Architecture</h3>
+                      <div class="entry-meta">Sistem Informasi</div>
+                      <h3 class="entry-title">Sistem Informasi Akademik</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-7.webp" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Urban Architecture; description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem.">
+                        <a href="assets/img/portfolio/OIP.jpegp" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Urban Architecture; description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -847,13 +846,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-marketing">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-4.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/yoi.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Marketing</div>
-                      <h3 class="entry-title">Social Media Campaign</h3>
+                      <div class="entry-meta">Riset & Pengembangan TI</div>
+                      <h3 class="entry-title">Laporan Riset AI untuk Kesehatan</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-4.webp" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Social Media Campaign; description: Quis autem vel eum iure reprehenderit qui in ea voluptate.">
+                        <a href="assets/img/portfolio/yoi.jpg" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Social Media Campaign; description: Quis autem vel eum iure reprehenderit qui in ea voluptate.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -869,13 +868,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-ui">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-2.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/nam.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">UI/UX Design</div>
-                      <h3 class="entry-title">Smart Home Interface</h3>
+                      <div class="entry-meta">Desain UI/UX & Web</div>
+                      <h3 class="entry-title">Perancangan Dashboard Interaktif</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-2.webp" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Smart Home Interface; description: At vero eos et accusamus et iusto odio dignissimos ducimus.">
+                        <a href="assets/img/portfolio/nam.jpg" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Smart Home Interface; description: At vero eos et accusamus et iusto odio dignissimos ducimus.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -891,13 +890,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-development">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-11.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/ba.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Development</div>
-                      <h3 class="entry-title">Cloud Management System</h3>
+                      <div class="entry-meta">Pengembangan Web</div>
+                      <h3 class="entry-title">Sistem Manajemen Data Online</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-11.webp" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: Cloud Management System; description: Temporibus autem quibusdam et aut officiis debitis.">
+                        <a href="assets/img/portfolio/ba.jpg" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: Cloud Management System; description: Temporibus autem quibusdam et aut officiis debitis.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -913,13 +912,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-photography">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-8.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/Yap.webp" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Photography</div>
-                      <h3 class="entry-title">Nature Collection</h3>
+                      <div class="entry-meta">Pengembangan Web</div>
+                      <h3 class="entry-title">Sistem Manajemen Data Online</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-8.webp" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Nature Collection; description: Integer posuere erat a ante venenatis dapibus posuere velit aliquet.">
+                        <a href="assets/img/portfolio/Yap.webp" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Nature Collection; description: Integer posuere erat a ante venenatis dapibus posuere velit aliquet.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -935,13 +934,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-marketing">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-5.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/sa.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Marketing</div>
-                      <h3 class="entry-title">Brand Strategy</h3>
+                      <div class="entry-meta">Keamanan Siber</div>
+                      <h3 class="entry-title">Analisis Kerentanan Jaringan</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-5.webp" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Brand Strategy; description: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum.">
+                        <a href="assets/img/portfolio/sa.jpg" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Brand Strategy; description: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -967,8 +966,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Team</h2>
-        <div><span>Check Our</span> <span class="description-title">Team</span></div>
+        <h2>KOLABORATOR</h2>
+        <div><span>ORANG-ORANG HEBAT</span> <span class="description-title">DI BALIK PROYEK</span></div>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -982,8 +981,8 @@
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Aliquam iure quaerat voluptatem praesentium possimus unde laudantium vel dolorum distinctio dire flow</p>
+                <span>Pakar Ngoding Santuy</span>
+                <p>Seringkali muncul tiba-tiba dengan solusi ajaib saat *deadline* mepet. Keahliannya membuat kode rumit jadi simpel adalah sebuah misteri.</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1001,8 +1000,8 @@
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium aut quod dolores exercitationem ut</p>
+                <span>Spesialis Debugging Otomatis</span>
+                <p>Spesialis handal yang selalu menemukan bug tersembunyi, bahkan sebelum saya sadar ada bug. Konon katanya dia makan error log sebagai sarapan.</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1020,8 +1019,8 @@
               </div>
               <div class="member-info flex-grow-1">
                 <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque sed facilis at qui</p>
+                <span>Arsitek Kode Rahasia</span>
+                <p>Sosok di balik layar yang menerjemahkan ide gila jadi baris kode bersih. Kalau bukan karena algoritma ajaibnya, proyek ini mungkin masih jadi mimpi belaka di laptop</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1039,46 +1038,8 @@
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate sed et veniam quasi quam consectetur</p>
-                <div class="social">
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="team-member d-flex">
-              <div class="member-img">
-                <img src="assets/img/person/person-m-12.webp" class="img-fluid" alt="" loading="lazy">
-              </div>
-              <div class="member-info flex-grow-1">
-                <h4>Brian Doe</h4>
-                <span>Marketing</span>
-                <p>Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam sunt doloribus quia impedit laborum velit</p>
-                <div class="social">
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
-                </div>
-              </div>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
-            <div class="team-member d-flex">
-              <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
-              </div>
-              <div class="member-info flex-grow-1">
-                <h4>Josepha Palas</h4>
-                <span>Operation</span>
-                <p>Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum earum et omnis fugit eligendi cupiditate vel</p>
+                <span>Penjinak Basis Data</span>
+                <p>Pahlawan tak bertopeng yang merapikan lautan data acak menjadi informasi yang koheren. Tanpa sentuhan magisnya, proyek kami mungkin masih bergulat dengan tabel-tabel berantakan.</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1095,120 +1056,6 @@
 
     </section><!-- /Team Section -->
 
-    <!-- Pricing Section -->
-    <section id="pricing" class="pricing section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Pricing</h2>
-        <div><span>Check Our</span> <span class="description-title">Pricing</span></div>
-      </div><!-- End Section Title -->
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-4">
-          <!-- Basic Plan -->
-          <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-            <div class="pricing-card">
-              <div class="plan-header">
-                <div class="plan-icon">
-                  <i class="bi bi-box"></i>
-                </div>
-                <h3>Starter</h3>
-                <p>For individuals just getting started</p>
-              </div>
-              <div class="plan-pricing">
-                <div class="price">
-                  <span class="currency">$</span>
-                  <span class="amount">12</span>
-                  <span class="period">/month</span>
-                </div>
-              </div>
-              <div class="plan-features">
-                <ul>
-                  <li><i class="bi bi-check-circle-fill"></i> Nullam accumsan lorem</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Vestibulum auctor dapibus</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Nulla consequat massa</li>
-                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> In enim justo rhoncus ut</li>
-                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Curabitur ullamcorper ultricies</li>
-                </ul>
-              </div>
-              <div class="plan-cta">
-                <a href="#" class="btn-plan">Choose Plan</a>
-              </div>
-            </div>
-          </div><!-- End Basic Plan -->
-
-          <!-- Professional Plan -->
-          <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-            <div class="pricing-card popular">
-              <div class="popular-tag">Most Popular</div>
-              <div class="plan-header">
-                <div class="plan-icon">
-                  <i class="bi bi-briefcase"></i>
-                </div>
-                <h3>Professional</h3>
-                <p>For small teams and growing businesses</p>
-              </div>
-              <div class="plan-pricing">
-                <div class="price">
-                  <span class="currency">$</span>
-                  <span class="amount">39</span>
-                  <span class="period">/month</span>
-                </div>
-              </div>
-              <div class="plan-features">
-                <ul>
-                  <li><i class="bi bi-check-circle-fill"></i> Donec quam felis ultricies</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Nam eget dui etiam rhoncus</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Maecenas tempus tellus</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Donec pede justo fringilla</li>
-                  <li class="disabled"><i class="bi bi-x-circle-fill"></i> Cras dapibus vivamus</li>
-                </ul>
-              </div>
-              <div class="plan-cta">
-                <a href="#" class="btn-plan">Choose Plan</a>
-              </div>
-            </div>
-          </div><!-- End Professional Plan -->
-
-          <!-- Enterprise Plan -->
-          <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-            <div class="pricing-card">
-              <div class="plan-header">
-                <div class="plan-icon">
-                  <i class="bi bi-building"></i>
-                </div>
-                <h3>Enterprise</h3>
-                <p>For large organizations and corporations</p>
-              </div>
-              <div class="plan-pricing">
-                <div class="price">
-                  <span class="currency">$</span>
-                  <span class="amount">79</span>
-                  <span class="period">/month</span>
-                </div>
-              </div>
-              <div class="plan-features">
-                <ul>
-                  <li><i class="bi bi-check-circle-fill"></i> Etiam sit amet orci eget</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Pellentesque posuere vulputate</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Quisque rutrum aenean</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Fusce vulputate eleifend</li>
-                  <li><i class="bi bi-check-circle-fill"></i> Phasellus viverra nulla</li>
-                </ul>
-              </div>
-              <div class="plan-cta">
-                <a href="#" class="btn-plan">Choose Plan</a>
-              </div>
-            </div>
-          </div><!-- End Enterprise Plan -->
-        </div>
-
-      </div>
-
-    </section><!-- /Pricing Section -->
-
     <!-- Faq Section -->
     <section class="faq-9 faq section" id="faq">
 
@@ -1216,8 +1063,8 @@
         <div class="row">
 
           <div class="col-lg-5" data-aos="fade-up">
-            <h2 class="faq-title">Have a question? Check out the FAQ</h2>
-            <p class="faq-description">Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet adipiscing sem neque sed ipsum.</p>
+            <h2 class="faq-title">Ada Pertanyaan?</h2>
+            <p class="faq-description">Mungkin beberapa hal yang ingin Anda ketahui tentang saya atau proyek-proyek saya sudah terjawab di sini. Mari kita selami lebih jauh!</p>
             <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
               <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M198.804 194.488C189.279 189.596 179.529 185.52 169.407 182.07L169.384 182.049C169.227 181.994 169.07 181.939 168.912 181.884C166.669 181.139 165.906 184.546 167.669 185.615C174.053 189.473 182.761 191.837 189.146 195.695C156.603 195.912 119.781 196.591 91.266 179.049C62.5221 161.368 48.1094 130.695 56.934 98.891C84.5539 98.7247 112.556 84.0176 129.508 62.667C136.396 53.9724 146.193 35.1448 129.773 30.2717C114.292 25.6624 93.7109 41.8875 83.1971 51.3147C70.1109 63.039 59.63 78.433 54.2039 95.0087C52.1221 94.9842 50.0776 94.8683 48.0703 94.6608C30.1803 92.8027 11.2197 83.6338 5.44902 65.1074C-1.88449 41.5699 14.4994 19.0183 27.9202 1.56641C28.6411 0.625793 27.2862 -0.561638 26.5419 0.358501C13.4588 16.4098 -0.221091 34.5242 0.896608 56.5659C1.8218 74.6941 14.221 87.9401 30.4121 94.2058C37.7076 97.0203 45.3454 98.5003 53.0334 98.8449C47.8679 117.532 49.2961 137.487 60.7729 155.283C87.7615 197.081 139.616 201.147 184.786 201.155L174.332 206.827C172.119 208.033 174.345 211.287 176.537 210.105C182.06 207.125 187.582 204.122 193.084 201.144C193.346 201.147 195.161 199.887 195.423 199.868C197.08 198.548 193.084 201.144 195.528 199.81C196.688 199.192 197.846 198.552 199.006 197.935C200.397 197.167 200.007 195.087 198.804 194.488ZM60.8213 88.0427C67.6894 72.648 78.8538 59.1566 92.1207 49.0388C98.8475 43.9065 106.334 39.2953 114.188 36.1439C117.295 34.8947 120.798 33.6609 124.168 33.635C134.365 33.5511 136.354 42.9911 132.638 51.031C120.47 77.4222 86.8639 93.9837 58.0983 94.9666C58.8971 92.6666 59.783 90.3603 60.8213 88.0427Z" fill="currentColor"></path>
@@ -1229,49 +1076,25 @@
             <div class="faq-container">
 
               <div class="faq-item faq-active">
-                <h3>Non consectetur a erat nam at lectus urna duis?</h3>
+                <h3>Apa saja keahlian teknis utama saya?</h3>
                 <div class="faq-content">
-                  <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
+                  <p>Saya memiliki fondasi kuat dalam pemrograman (Python, Java, C++), pengembangan web (HTML, CSS, JavaScript, React.js), serta analisis data dasar (SQL, Pandas). Saya juga familiar dengan konsep basis data relasional dan kontrol versi (Git).</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Feugiat scelerisque varius morbi enim nunc faucibus?</h3>
+                <h3>Proyek apa yang paling membuat saya bangga?</h3>
                 <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                  <p>Proyek Sistem Manajemen Inventaris Berbasis Web yang saya kembangkan. Proyek ini melibatkan perancangan database, implementasi backend dengan Python Flask, dan frontend responsif menggunakan React.js. Saya bangga karena berhasil menyelesaikannya dari nol hingga fungsional penuh.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
+                <h3>Bagaimana cara saya terus belajar dan mengembangkan diri?</h3>
                 <div class="faq-content">
-                  <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
-                <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Tempus quam pellentesque nec nam aliquam sem et tortor?</h3>
-                <div class="faq-content">
-                  <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
-                <div class="faq-content">
-                  <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed in suscipit sequi. Distinctio ipsam dolore et.</p>
+                  <p>Saya aktif mengikuti kursus online (Coursera, Udemy), membaca dokumentasi teknis, berkontribusi di GitHub, dan menghadiri webinar/seminar terkait tren teknologi terbaru seperti AI dan cloud computing. Saya juga suka mencoba proyek-proyek kecil baru.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
@@ -1288,176 +1111,102 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <div><span>Let's</span> <span class="description-title">Connect</span></div>
-      </div><!-- End Section Title -->
+    <h2>Hubungi Kami</h2>
+    <div><span>Kami Siap</span> <span class="description-title">Membantu</span></div>
+</div><div class="container" data-aos="fade-up" data-aos-delay="100">
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <!-- Contact Info Boxes -->
-        <div class="row gy-4 mb-5">
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+    <div class="row gy-4 mb-5">
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-info-box">
-              <div class="icon-box">
-                <i class="bi bi-geo-alt"></i>
-              </div>
-              <div class="info-content">
-                <h4>Our Address</h4>
-                <p>1842 Maple Avenue, Portland, Oregon 97204</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="contact-info-box">
-              <div class="icon-box">
-                <i class="bi bi-envelope"></i>
-              </div>
-              <div class="info-content">
-                <h4>Email Address</h4>
-                <p>info@example.com</p>
-                <p>contact@example.com</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
-            <div class="contact-info-box">
-              <div class="icon-box">
-                <i class="bi bi-headset"></i>
-              </div>
-              <div class="info-content">
-                <h4>Hours of Operation</h4>
-                <p>Sunday-Fri: 9 AM - 6 PM</p>
-                <p>Saturday: 9 AM - 4 PM</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-      <!-- Google Maps (Full Width) -->
-      <div class="map-section" data-aos="fade-up" data-aos-delay="200">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </div>
-
-      <!-- Contact Form Section (Overlapping) -->
-      <div class="container form-container-overlap">
-        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-lg-10">
-            <div class="contact-form-wrapper">
-              <h2 class="text-center mb-4">Get in Touch</h2>
-
-              <form action="forms/contact.php" method="post" class="php-email-form">
-                <div class="row g-3">
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <div class="input-with-icon">
-                        <i class="bi bi-person"></i>
-                        <input type="text" class="form-control" name="name" placeholder="First Name" required="">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-md-6">
-                    <div class="form-group">
-                      <div class="input-with-icon">
-                        <i class="bi bi-envelope"></i>
-                        <input type="email" class="form-control" name="email" placeholder="Email Address" required="">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-md-12">
-                    <div class="form-group">
-                      <div class="input-with-icon">
-                        <i class="bi bi-text-left"></i>
-                        <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-12">
-                    <div class="form-group">
-                      <div class="input-with-icon">
-                        <i class="bi bi-chat-dots message-icon"></i>
-                        <textarea class="form-control" name="message" placeholder="Write Message..." style="height: 180px" required=""></textarea>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-12">
-                    <div class="loading">Loading</div>
-                    <div class="error-message"></div>
-                    <div class="sent-message">Your message has been sent. Thank you!</div>
-                  </div>
-
-                  <div class="col-12 text-center">
-                    <button type="submit" class="btn btn-primary btn-submit">SEND MESSAGE</button>
-                  </div>
+                <div class="icon-box">
+                    <i class="bi bi-geo-alt"></i>
                 </div>
-              </form>
+                <div class="info-content">
+                    <h4>Alamat Kami</h4>
+                    <p>Lombok tengah desa mangkung</p>
+                </div>
             </div>
-          </div>
         </div>
 
-      </div>
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="contact-info-box">
+                <div class="icon-box">
+                    <i class="bi bi-envelope"></i>
+                </div>
+                <div class="info-content">
+                    <h4>Alamat Email</h4>
+                    <p>iwandhani19@gmail.com</p>
+                </div>
+            </div>
+        </div>
 
-    </section><!-- /Contact Section -->
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="contact-info-box">
+                <div class="icon-box">
+                    <i class="bi bi-headset"></i>
+                </div>
+                <div class="info-content">
+                    <h4>Jam Operasional</h4>
+                    <p>Senin-Jumat: 9 AM - 5 PM</p>
+                    <p>Sabtu: 9 AM - 1 PM</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+      </div>
 
   </main>
 
   <footer id="footer" class="footer">
 
-    <div class="container footer-top">
-      <div class="row gy-4">
+   <div class="container footer-top">
+    <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-about">
-          <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Strategy</span>
-          </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-          <div class="social-links d-flex mt-4">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
+            <a href="<?= base_url('/') ?>" class="logo d-flex align-items-center">
+                <span class="sitename">Strategy</span>
+            </a>
+            <p>Strategy adalah agensi kreatif yang berfokus pada solusi digital inovatif. Kami membantu bisnis Anda berkembang melalui desain web, pengembangan, dan strategi pemasaran yang terpadu.</p>
+            <div class="social-links d-flex mt-4">
+                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+            </div>
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
-          </ul>
+            <h4>Tautan Berguna</h4>
+            <ul>
+                <li><a href="<?= base_url('/') ?>">Beranda</a></li>
+                <li><a href="<?= base_url('about') ?>">Tentang Kami</a></li>
+                <li><a href="<?= base_url('services') ?>">Layanan</a></li>
+                <li><a href="<?= base_url('terms') ?>">Ketentuan Layanan</a></li>
+                <li><a href="<?= base_url('privacy') ?>">Kebijakan Privasi</a></li>
+            </ul>
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
-          <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
-          </ul>
+            <h4>Layanan Kami</h4>
+            <ul>
+                <li><a href="#">Desain Web</a></li>
+                <li><a href="#">Pengembangan Web</a></li>
+                <li><a href="#">Manajemen Produk</a></li>
+                <li><a href="#">Pemasaran Digital</a></li>
+                <li><a href="#">Desain Grafis</a></li>
+            </ul>
         </div>
 
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>A108 Adam Street</p>
-          <p>New York, NY 535022</p>
-          <p>United States</p>
-          <p class="mt-4"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-          <p><strong>Email:</strong> <span>info@example.com</span></p>
+            <h4>Hubungi Kami</h4>
+            <p>jalan pantai selong belanak</p>
+            <p>lombok</p>
+            <p>Indonesia</p>
+            <p class="mt-4"><strong>Telepon:</strong> <span>+62 85693644016</span></p>
+            <p><strong>Email:</strong> <span>iwandhani19@gmail.com</span></p>
         </div>
-
-      </div>
     </div>
+</div>
 
     <div class="container copyright text-center mt-4">
       <p>© <span>Copyright</span> <strong class="px-1 sitename">Strategy</strong> <span>All Rights Reserved</span></p>

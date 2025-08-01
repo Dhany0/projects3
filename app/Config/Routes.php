@@ -5,18 +5,17 @@ use CodeIgniter\Router\RouteCollection;
 /**
  * @var RouteCollection $routes
  */
+
+// Halaman-halaman statis
 $routes->get('/', 'Home::index');
 $routes->get('/about', 'Page::about');
-$routes->get('/contact', 'Page::contact');
 $routes->get('/faqs', 'Page::faqs');
 
-$routes->group('admin', function($routes){ 
-$routes->get('post', 'PostAdmin::index'); 
-$routes->get('post/(:segment)/preview', 
-'PostAdmin::preview/$1'); 
-$routes->add('post/new', 'PostAdmin::create'); 
-$routes->add('post/(:segment)/edit', 
-'PostAdmin::edit/$1'); 
-$routes->get('post/(:segment)/delete', 
-'PostAdmin::delete/$1'); 
+// Rute untuk halaman kontak
+$routes->get('/contact', 'Page::contact');
+$routes->post('/contact', 'Contact::submit');
+
+// Grup rute untuk area admin
+$routes->group('admin', function($routes) {
+    $routes->resource('produk', ['controller' => 'ProdukAdmin']);
 });
